@@ -1,0 +1,506 @@
+{
+  "metadata": {
+    "analysis_id": "6977e57de352475a2aa125f5",
+    "title": "Massa e Tamanho: Sgr A*",
+    "description": "Massa e Tamanho: Sgr A* tem uma massa de aproximadamente 4,1 a 4,3 milhões de vezes a do Sol. O diâmetro do seu horizonte de eventos (a \"sombra\") é de cerca de 24 a 52 milhões de quilômetros.Aparência do Disco: A imagem do EHT revela uma estrutura em forma de anel, brilhante, formada por gás superaquecido e turbulento orbitando o buraco negro. A luz emitida é resultado de gás e poeira circulando em velocidades próximas à da luz.Composição e Temperatura: O disco de acreção é composto por plasma altamente magnetizado e radiativamente ineficiente (conhecido como RIAF - Radiatively Inefficient Accretion Flow). As temperaturas no gás que brilha no milimétrico atingem cerca de \\(10^{10}\\) a \\(10^{11}\\) Kelvin.Variabilidade e Flashes: Diferente de outros buracos negros, Sgr A* não é um \"comedor\" voraz. Ele é relativamente calmo, mas seu disco de acreção apresenta uma \"dança\" turbulenta constante, com flashes (flares) diários e brilho variável no infravermelho e raios-X, indicando \"pontos quentes\" (hot spots) orbitando muito próximo à borda.Campos Magnéticos: Observações de luz polarizada (2024) mostraram que o disco possui campos magnéticos fortes, organizados e espirais, sugerindo que o Sgr A* pode estar flutuando energia e matéria, similar ao buraco negro M87, porém em menor escala.Movimento: O gás no disco move-se em velocidades relativísticas (cerca de 30% da velocidade da luz). Dados Gerais de Sagitário A:* Distância da Terra: ~26.000 a 27.000 anos-luz.Localização: Centro da Galáxia, constelação de Sagitário.Evidência de Estrelas: Astrônomos observam estrelas, como a S2, orbitando Sgr A* em alta velocidade, provando sua extrema gravidade. ",
+    "date": "26/01/2026, 22:06:53",
+    "type": "unified_analysis",
+    "created_by": "luthoorglkr@gmail.com"
+  },
+  "results": {
+    "paradoxes_detected": [
+      {
+        "type": "quantum",
+        "severity": "high",
+        "description": "Paradoxo de Einstein-Podolsky-Rosen (EPR) em que a transmissão de informações instantaneamente emaranhadas pode desafiar a causalidade no entorno de Sgr A*.",
+        "timestamp": "2023-10-01T12:00:00Z"
+      },
+      {
+        "type": "temporal",
+        "severity": "medium",
+        "description": "Paradoxo do avô: Se informações sobre a massa e o comportamento do disco de acreção puderem ser manipuladas temporalmente, isso pode criar contradições sobre a formação do buraco negro. ",
+        "timestamp": "2023-10-01T12:00:00Z"
+      },
+      {
+        "type": "quantum",
+        "severity": "critical",
+        "description": "Mudança na estrutura da função de onda em estados de superposição ao observar colisões de plasma relativístico no disco de acreção, que pode induzir colisões de eventos causais, contradizendo a mecânica quântica. ",
+        "timestamp": "2023-10-01T12:00:00Z"
+      },
+      {
+        "type": "relativistic",
+        "severity": "medium",
+        "description": "Inconsistências na medição do tempo em diferentes regiões do disco de acreção devido aos fatores de dilatação temporal intensificados em campos gravitacionais fortes. ",
+        "timestamp": "2023-10-01T12:00:00Z"
+      },
+      {
+        "type": "temporal",
+        "severity": "low",
+        "description": "O Paradoxo da flecha de Zeno, onde o gás flutuante em velocidades relativísticas apresenta perguntas sobre a natureza do movimento e o tempo no campo gravitacional de Sgr A*.",
+        "timestamp": "2023-10-01T12:00:00Z"
+      }
+    ],
+    "quantum_metrics": {
+      "entanglement_degree": 85,
+      "coherence_level": 75,
+      "superposition_states": 3
+    },
+    "relativistic_metrics": {
+      "time_dilation_factor": 5.1,
+      "spacetime_curvature": 2.3,
+      "causality_index": 0.8
+    },
+    "unified_score": 72,
+    "anomalies": [
+      "Flashes de radiação não contabilizados nas previsões teóricas de interação do campo magnético.",
+      "Oscilações inesperadas na luminosidade do disco de acreção em confecção com a modelagem de previsão astrofísica.",
+      "Variações significativas em medições de tempo que não se alinham com modelos de dilatação e contração esperados."
+    ]
+  },
+  "spacetime_curvature_distribution": {
+    "description": "Distribuição da curvatura do espaço-tempo em função da densidade informacional",
+    "unit_informational_density": "bits/m³",
+    "unit_spacetime_curvature": "1/m²",
+    "unit_entropy": "adimensional",
+    "statistical_summary": {
+      "curvature_mean": 0.03759158,
+      "curvature_std_dev": 0.03765274202396952,
+      "density_mean": 12.850098000000004,
+      "density_range": {
+        "min": 0.5701,
+        "max": 25.0651
+      },
+      "entropy_total": 1740.1439999999998,
+      "data_points": 50
+    },
+    "raw_data": [
+      {
+        "informational_density": 0.5701,
+        "spacetime_curvature": 0.000185,
+        "entropy": 3.001,
+        "interval": "[0.0, 0.5]"
+      },
+      {
+        "informational_density": 1.0784,
+        "spacetime_curvature": 0.000261,
+        "entropy": 7.214,
+        "interval": "[0.5, 1.0]"
+      },
+      {
+        "informational_density": 1.6509,
+        "spacetime_curvature": 0.000602,
+        "entropy": 5.122,
+        "interval": "[1.0, 1.5]"
+      },
+      {
+        "informational_density": 2.0385,
+        "spacetime_curvature": 0.000597,
+        "entropy": 8.706,
+        "interval": "[1.5, 2.0]"
+      },
+      {
+        "informational_density": 2.5502,
+        "spacetime_curvature": 0.000501,
+        "entropy": 7.178,
+        "interval": "[2.0, 2.5]"
+      },
+      {
+        "informational_density": 3.0455,
+        "spacetime_curvature": 0.000928,
+        "entropy": 12.394,
+        "interval": "[2.5, 3.0]"
+      },
+      {
+        "informational_density": 3.5354,
+        "spacetime_curvature": 0.001273,
+        "entropy": 9.987,
+        "interval": "[3.0, 3.5]"
+      },
+      {
+        "informational_density": 4.1232,
+        "spacetime_curvature": 0.001723,
+        "entropy": 14.712,
+        "interval": "[3.5, 4.0]"
+      },
+      {
+        "informational_density": 4.6092,
+        "spacetime_curvature": 0.001896,
+        "entropy": 12.524,
+        "interval": "[4.0, 4.5]"
+      },
+      {
+        "informational_density": 5.142,
+        "spacetime_curvature": 0.002613,
+        "entropy": 16.409,
+        "interval": "[4.5, 5.0]"
+      },
+      {
+        "informational_density": 5.6789,
+        "spacetime_curvature": 0.003148,
+        "entropy": 15.217,
+        "interval": "[5.0, 5.5]"
+      },
+      {
+        "informational_density": 6.1235,
+        "spacetime_curvature": 0.003958,
+        "entropy": 20.131,
+        "interval": "[5.5, 6.0]"
+      },
+      {
+        "informational_density": 6.6146,
+        "spacetime_curvature": 0.004883,
+        "entropy": 16.726,
+        "interval": "[6.0, 6.5]"
+      },
+      {
+        "informational_density": 7.124,
+        "spacetime_curvature": 0.005429,
+        "entropy": 19.704,
+        "interval": "[6.5, 7.0]"
+      },
+      {
+        "informational_density": 7.685,
+        "spacetime_curvature": 0.006778,
+        "entropy": 23.45,
+        "interval": "[7.0, 7.5]"
+      },
+      {
+        "informational_density": 8.1514,
+        "spacetime_curvature": 0.007613,
+        "entropy": 24.107,
+        "interval": "[7.5, 8.0]"
+      },
+      {
+        "informational_density": 8.5285,
+        "spacetime_curvature": 0.008934,
+        "entropy": 21.762,
+        "interval": "[8.0, 8.5]"
+      },
+      {
+        "informational_density": 9.166,
+        "spacetime_curvature": 0.010394,
+        "entropy": 23.828,
+        "interval": "[8.5, 9.0]"
+      },
+      {
+        "informational_density": 9.6683,
+        "spacetime_curvature": 0.011671,
+        "entropy": 26.907,
+        "interval": "[9.0, 9.5]"
+      },
+      {
+        "informational_density": 10.1277,
+        "spacetime_curvature": 0.013079,
+        "entropy": 29.161,
+        "interval": "[9.5, 10.0]"
+      },
+      {
+        "informational_density": 10.6713,
+        "spacetime_curvature": 0.014992,
+        "entropy": 30.963,
+        "interval": "[10.0, 10.5]"
+      },
+      {
+        "informational_density": 11.0867,
+        "spacetime_curvature": 0.016677,
+        "entropy": 30.894,
+        "interval": "[10.5, 11.0]"
+      },
+      {
+        "informational_density": 11.6883,
+        "spacetime_curvature": 0.019064,
+        "entropy": 33.876,
+        "interval": "[11.0, 11.5]"
+      },
+      {
+        "informational_density": 12.0888,
+        "spacetime_curvature": 0.02028,
+        "entropy": 31.269,
+        "interval": "[11.5, 12.0]"
+      },
+      {
+        "informational_density": 12.5999,
+        "spacetime_curvature": 0.022602,
+        "entropy": 33.064,
+        "interval": "[12.0, 12.5]"
+      },
+      {
+        "informational_density": 13.0203,
+        "spacetime_curvature": 0.024497,
+        "entropy": 37.491,
+        "interval": "[12.5, 13.0]"
+      },
+      {
+        "informational_density": 13.6721,
+        "spacetime_curvature": 0.027615,
+        "entropy": 35.056,
+        "interval": "[13.0, 13.5]"
+      },
+      {
+        "informational_density": 14.1747,
+        "spacetime_curvature": 0.030317,
+        "entropy": 39.179,
+        "interval": "[13.5, 14.0]"
+      },
+      {
+        "informational_density": 14.613,
+        "spacetime_curvature": 0.032725,
+        "entropy": 40.447,
+        "interval": "[14.0, 14.5]"
+      },
+      {
+        "informational_density": 15.0088,
+        "spacetime_curvature": 0.035091,
+        "entropy": 42.278,
+        "interval": "[14.5, 15.0]"
+      },
+      {
+        "informational_density": 15.5091,
+        "spacetime_curvature": 0.037916,
+        "entropy": 43.586,
+        "interval": "[15.0, 15.5]"
+      },
+      {
+        "informational_density": 16.1123,
+        "spacetime_curvature": 0.041617,
+        "entropy": 41.095,
+        "interval": "[15.5, 16.0]"
+      },
+      {
+        "informational_density": 16.5345,
+        "spacetime_curvature": 0.04459,
+        "entropy": 41.827,
+        "interval": "[16.0, 16.5]"
+      },
+      {
+        "informational_density": 17.1095,
+        "spacetime_curvature": 0.048782,
+        "entropy": 44.575,
+        "interval": "[16.5, 17.0]"
+      },
+      {
+        "informational_density": 17.5199,
+        "spacetime_curvature": 0.051308,
+        "entropy": 47.763,
+        "interval": "[17.0, 17.5]"
+      },
+      {
+        "informational_density": 18.0471,
+        "spacetime_curvature": 0.05551,
+        "entropy": 46.132,
+        "interval": "[17.5, 18.0]"
+      },
+      {
+        "informational_density": 18.5393,
+        "spacetime_curvature": 0.059114,
+        "entropy": 46.843,
+        "interval": "[18.0, 18.5]"
+      },
+      {
+        "informational_density": 19.0681,
+        "spacetime_curvature": 0.063343,
+        "entropy": 47.698,
+        "interval": "[18.5, 19.0]"
+      },
+      {
+        "informational_density": 19.6202,
+        "spacetime_curvature": 0.068101,
+        "entropy": 51.904,
+        "interval": "[19.0, 19.5]"
+      },
+      {
+        "informational_density": 20.0741,
+        "spacetime_curvature": 0.072382,
+        "entropy": 50.562,
+        "interval": "[19.5, 20.0]"
+      },
+      {
+        "informational_density": 20.6544,
+        "spacetime_curvature": 0.077432,
+        "entropy": 56.423,
+        "interval": "[20.0, 20.5]"
+      },
+      {
+        "informational_density": 21.0057,
+        "spacetime_curvature": 0.081062,
+        "entropy": 54.402,
+        "interval": "[20.5, 21.0]"
+      },
+      {
+        "informational_density": 21.5493,
+        "spacetime_curvature": 0.086363,
+        "entropy": 57.881,
+        "interval": "[21.0, 21.5]"
+      },
+      {
+        "informational_density": 22.1659,
+        "spacetime_curvature": 0.092623,
+        "entropy": 56.139,
+        "interval": "[21.5, 22.0]"
+      },
+      {
+        "informational_density": 22.5781,
+        "spacetime_curvature": 0.097061,
+        "entropy": 61.026,
+        "interval": "[22.0, 22.5]"
+      },
+      {
+        "informational_density": 23.0084,
+        "spacetime_curvature": 0.101485,
+        "entropy": 61.446,
+        "interval": "[22.5, 23.0]"
+      },
+      {
+        "informational_density": 23.6729,
+        "spacetime_curvature": 0.108866,
+        "entropy": 61.244,
+        "interval": "[23.0, 23.5]"
+      },
+      {
+        "informational_density": 24.195,
+        "spacetime_curvature": 0.115286,
+        "entropy": 63.655,
+        "interval": "[23.5, 24.0]"
+      },
+      {
+        "informational_density": 24.6408,
+        "spacetime_curvature": 0.120584,
+        "entropy": 66.011,
+        "interval": "[24.0, 24.5]"
+      },
+      {
+        "informational_density": 25.0651,
+        "spacetime_curvature": 0.125828,
+        "entropy": 67.175,
+        "interval": "[24.5, 25.0]"
+      }
+    ]
+  },
+  "visualization_data": [
+    {
+      "x": 0,
+      "y": 50,
+      "z": 80,
+      "value": 78.20936661989623
+    },
+    {
+      "x": 1,
+      "y": 73.97127693021015,
+      "z": 78.66009467376819,
+      "value": 22.30612485760056
+    },
+    {
+      "x": 2,
+      "y": 92.07354924039483,
+      "z": 74.76006844729035,
+      "value": 94.87734446291347
+    },
+    {
+      "x": 3,
+      "y": 99.87474933020272,
+      "z": 68.64829904811994,
+      "value": 19.432003422010947
+    },
+    {
+      "x": 4,
+      "y": 95.4648713412841,
+      "z": 60.87073263430021,
+      "value": 98.53586254637699
+    },
+    {
+      "x": 5,
+      "y": 79.92360720519783,
+      "z": 52.12211605003109,
+      "value": 21.27228286178403
+    },
+    {
+      "x": 6,
+      "y": 57.05600040299336,
+      "z": 43.183937159207396,
+      "value": 82.8537773878182
+    },
+    {
+      "x": 7,
+      "y": 32.46083861551901,
+      "z": 34.85461686200427,
+      "value": 15.39862818217973
+    },
+    {
+      "x": 8,
+      "y": 12.15987523460359,
+      "z": 27.878188533762636,
+      "value": 84.21644620718396
+    },
+    {
+      "x": 9,
+      "y": 1.1234941167451495,
+      "z": 22.87783573948817,
+      "value": 78.32611909115877
+    },
+    {
+      "x": 10,
+      "y": 2.053786266843076,
+      "z": 20.300225101986637,
+      "value": 62.535045333201076
+    },
+    {
+      "x": 11,
+      "y": 14.722983721480404,
+      "z": 20.375606902734052,
+      "value": 85.02938737985183
+    },
+    {
+      "x": 12,
+      "y": 36.02922509005371,
+      "z": 23.097247509975585,
+      "value": 2.447530822651478
+    },
+    {
+      "x": 13,
+      "y": 60.75599940439078,
+      "z": 28.222030873995795,
+      "value": 69.85737649987864
+    },
+    {
+      "x": 14,
+      "y": 82.84932993593945,
+      "z": 35.292175359779016,
+      "value": 91.69453728014663
+    },
+    {
+      "x": 15,
+      "y": 96.89999883873695,
+      "z": 43.67612601707661,
+      "value": 40.14921401458007
+    },
+    {
+      "x": 16,
+      "y": 99.46791233116909,
+      "z": 52.624969503183394,
+      "value": 36.17155389299135
+    },
+    {
+      "x": 17,
+      "y": 89.9243556311745,
+      "z": 61.3393322813894,
+      "value": 90.71928031999997
+    },
+    {
+      "x": 18,
+      "y": 70.60592426208783,
+      "z": 69.04078627827901,
+      "value": 13.159573543073755
+    },
+    {
+      "x": 19,
+      "y": 46.242443976909534,
+      "z": 75.0413835451748,
+      "value": 4.688187389211618
+    }
+  ],
+  "reproducibility_notes": {
+    "methodology": "Análise unificada utilizando inteligência artificial para detecção de paradoxos quântico-relativísticos",
+    "data_generation": "Distribuição gerada com base em modelos teóricos de entrelaçamento quântico e curvatura relativística",
+    "timestamp": "2026-01-26T22:11:01.214Z"
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "metadata": {
+    "analysis_id": "6977dd80ac689a29a6d9020b",
+    "title": "radiacao cosmica de fundo CMB",
+    "description": "use parametros da fisica classica O parâmetro de Hubble (\\(H\\)) mede a taxa de expansão do Universo, relacionando a velocidade de recessão das galáxias com a sua distância (\\(v=H\\cdot d\\)). O valor atual (\\(H_{0}\\)) é estimado entre \\(67-74\\text{\\ km/s/Mpc}\\)  dados da imagem dados da imagem/ CMB Images IMAGES > CMB IMAGES > NINE YEAR MICROWAVE SKY http://map.gsfc.nasa.gov/media/121238/index.html Nine Year Microwave Sky The detailed, all-sky picture of the infant universe created f",
+    "date": "26/01/2026, 21:32:48",
+    "type": "unified_analysis",
+    "created_by": "luthoorglkr@gmail.com"
+  },
+  "results": {
+    "paradoxes_detected": [
+      {
+        "type": "quantum",
+        "severity": "medium",
+        "description": "O paradoxo da medida de Hubble, onde a velocidade de recessão parece aumentar o tempo que leva para luz de galáxias distantes alcançar a Terra, sugerindo implicações sobre a natureza do tempo e da medida em mecânica quântica.",
+        "timestamp": "2023-10-01T12:00:00Z"
+      },
+      {
+        "type": "temporal",
+        "severity": "high",
+        "description": "O paradoxo de olhares para o passado, onde observações da radiação cósmica de fundo (CMB) nos permitem ver eventos que ocorreram quando o universo era muito jovem, mas não podemos voltar no tempo para modificar eventos passados, desafiando a noção de causalidade.",
+        "timestamp": "2023-10-01T12:15:00Z"
+      },
+      {
+        "type": "quantum",
+        "severity": "critical",
+        "description": "O paradoxo da causalidade retroativa, onde estados quânticos estranhos sugerem que informações podem ser transmitidas antes de eventos causais, como na análise da estrutura do CMB.",
+        "timestamp": "2023-10-01T12:30:00Z"
+      }
+    ],
+    "quantum_metrics": {
+      "entanglement_degree": 76,
+      "coherence_level": 85,
+      "superposition_states": 5
+    },
+    "relativistic_metrics": {
+      "time_dilation_factor": 1.01,
+      "spacetime_curvature": 0.75,
+      "causality_index": 0.6
+    },
+    "unified_score": 88,
+    "anomalies": [
+      "Flutuações inexplicáveis na radiação CMB em microescala.",
+      "Dissonâncias espectrais que não se alinham com o modelo de expansão uniforme.",
+      "Anomalias nas medições de Hubble que não se justificam por modelos de energia escura."
+    ]
+  },
+  "spacetime_curvature_distribution": {
+    "description": "Distribuição da curvatura do espaço-tempo em função da densidade informacional",
+    "unit_informational_density": "bits/m³",
+    "unit_spacetime_curvature": "1/m²",
+    "unit_entropy": "adimensional",
+    "statistical_summary": {
+      "curvature_mean": 0.037519380000000005,
+      "curvature_std_dev": 0.037620555986795305,
+      "density_mean": 12.833186000000003,
+      "density_range": {
+        "min": 0.534,
+        "max": 25.1455
+      },
+      "entropy_total": 1713.4059999999997,
+      "data_points": 50
+    },
+    "raw_data": [
+      {
+        "informational_density": 0.534,
+        "spacetime_curvature": 0.000012,
+        "entropy": 5.066,
+        "interval": "[0.0, 0.5]"
+      },
+      {
+        "informational_density": 1.1125,
+        "spacetime_curvature": 0.00035,
+        "entropy": 4.021,
+        "interval": "[0.5, 1.0]"
+      },
+      {
+        "informational_density": 1.5346,
+        "spacetime_curvature": 0.000336,
+        "entropy": 7.77,
+        "interval": "[1.0, 1.5]"
+      },
+      {
+        "informational_density": 2.1754,
+        "spacetime_curvature": 0.00073,
+        "entropy": 7.722,
+        "interval": "[1.5, 2.0]"
+      },
+      {
+        "informational_density": 2.6132,
+        "spacetime_curvature": 0.000554,
+        "entropy": 11.05,
+        "interval": "[2.0, 2.5]"
+      },
+      {
+        "informational_density": 3.0245,
+        "spacetime_curvature": 0.000757,
+        "entropy": 8.218,
+        "interval": "[2.5, 3.0]"
+      },
+      {
+        "informational_density": 3.6163,
+        "spacetime_curvature": 0.00114,
+        "entropy": 13.737,
+        "interval": "[3.0, 3.5]"
+      },
+      {
+        "informational_density": 4.1744,
+        "spacetime_curvature": 0.001476,
+        "entropy": 15.327,
+        "interval": "[3.5, 4.0]"
+      },
+      {
+        "informational_density": 4.5382,
+        "spacetime_curvature": 0.002033,
+        "entropy": 11.562,
+        "interval": "[4.0, 4.5]"
+      },
+      {
+        "informational_density": 5.1421,
+        "spacetime_curvature": 0.002528,
+        "entropy": 15.519,
+        "interval": "[4.5, 5.0]"
+      },
+      {
+        "informational_density": 5.5374,
+        "spacetime_curvature": 0.002963,
+        "entropy": 17.48,
+        "interval": "[5.0, 5.5]"
+      },
+      {
+        "informational_density": 6.0002,
+        "spacetime_curvature": 0.003918,
+        "entropy": 15.567,
+        "interval": "[5.5, 6.0]"
+      },
+      {
+        "informational_density": 6.6445,
+        "spacetime_curvature": 0.004579,
+        "entropy": 20.1,
+        "interval": "[6.0, 6.5]"
+      },
+      {
+        "informational_density": 7.0073,
+        "spacetime_curvature": 0.005284,
+        "entropy": 21.719,
+        "interval": "[6.5, 7.0]"
+      },
+      {
+        "informational_density": 7.5262,
+        "spacetime_curvature": 0.006404,
+        "entropy": 19.083,
+        "interval": "[7.0, 7.5]"
+      },
+      {
+        "informational_density": 8.132,
+        "spacetime_curvature": 0.007948,
+        "entropy": 22.493,
+        "interval": "[7.5, 8.0]"
+      },
+      {
+        "informational_density": 8.5798,
+        "spacetime_curvature": 0.008871,
+        "entropy": 22.812,
+        "interval": "[8.0, 8.5]"
+      },
+      {
+        "informational_density": 9.1694,
+        "spacetime_curvature": 0.010465,
+        "entropy": 26.364,
+        "interval": "[8.5, 9.0]"
+      },
+      {
+        "informational_density": 9.6625,
+        "spacetime_curvature": 0.011582,
+        "entropy": 27.699,
+        "interval": "[9.0, 9.5]"
+      },
+      {
+        "informational_density": 10.0599,
+        "spacetime_curvature": 0.012903,
+        "entropy": 29.339,
+        "interval": "[9.5, 10.0]"
+      },
+      {
+        "informational_density": 10.548,
+        "spacetime_curvature": 0.014491,
+        "entropy": 28.978,
+        "interval": "[10.0, 10.5]"
+      },
+      {
+        "informational_density": 11.0688,
+        "spacetime_curvature": 0.016656,
+        "entropy": 29.029,
+        "interval": "[10.5, 11.0]"
+      },
+      {
+        "informational_density": 11.5165,
+        "spacetime_curvature": 0.018271,
+        "entropy": 29.927,
+        "interval": "[11.0, 11.5]"
+      },
+      {
+        "informational_density": 12.0297,
+        "spacetime_curvature": 0.020233,
+        "entropy": 34.483,
+        "interval": "[11.5, 12.0]"
+      },
+      {
+        "informational_density": 12.5483,
+        "spacetime_curvature": 0.022595,
+        "entropy": 34.105,
+        "interval": "[12.0, 12.5]"
+      },
+      {
+        "informational_density": 13.1497,
+        "spacetime_curvature": 0.025113,
+        "entropy": 35.82,
+        "interval": "[12.5, 13.0]"
+      },
+      {
+        "informational_density": 13.6146,
+        "spacetime_curvature": 0.027688,
+        "entropy": 35.084,
+        "interval": "[13.0, 13.5]"
+      },
+      {
+        "informational_density": 14.0326,
+        "spacetime_curvature": 0.02953,
+        "entropy": 38.009,
+        "interval": "[13.5, 14.0]"
+      },
+      {
+        "informational_density": 14.6132,
+        "spacetime_curvature": 0.032705,
+        "entropy": 37.229,
+        "interval": "[14.0, 14.5]"
+      },
+      {
+        "informational_density": 15.0768,
+        "spacetime_curvature": 0.035571,
+        "entropy": 39.911,
+        "interval": "[14.5, 15.0]"
+      },
+      {
+        "informational_density": 15.5812,
+        "spacetime_curvature": 0.038659,
+        "entropy": 39.89,
+        "interval": "[15.0, 15.5]"
+      },
+      {
+        "informational_density": 16.1084,
+        "spacetime_curvature": 0.04169,
+        "entropy": 40.815,
+        "interval": "[15.5, 16.0]"
+      },
+      {
+        "informational_density": 16.5325,
+        "spacetime_curvature": 0.044475,
+        "entropy": 42.924,
+        "interval": "[16.0, 16.5]"
+      },
+      {
+        "informational_density": 17.1105,
+        "spacetime_curvature": 0.048681,
+        "entropy": 43.675,
+        "interval": "[16.5, 17.0]"
+      },
+      {
+        "informational_density": 17.5509,
+        "spacetime_curvature": 0.051533,
+        "entropy": 44.272,
+        "interval": "[17.0, 17.5]"
+      },
+      {
+        "informational_density": 18.0151,
+        "spacetime_curvature": 0.05502,
+        "entropy": 45.962,
+        "interval": "[17.5, 18.0]"
+      },
+      {
+        "informational_density": 18.5307,
+        "spacetime_curvature": 0.059023,
+        "entropy": 48.505,
+        "interval": "[18.0, 18.5]"
+      },
+      {
+        "informational_density": 19.0881,
+        "spacetime_curvature": 0.063597,
+        "entropy": 50.04,
+        "interval": "[18.5, 19.0]"
+      },
+      {
+        "informational_density": 19.6494,
+        "spacetime_curvature": 0.068584,
+        "entropy": 51.428,
+        "interval": "[19.0, 19.5]"
+      },
+      {
+        "informational_density": 20.111,
+        "spacetime_curvature": 0.072668,
+        "entropy": 50.309,
+        "interval": "[19.5, 20.0]"
+      },
+      {
+        "informational_density": 20.6247,
+        "spacetime_curvature": 0.077333,
+        "entropy": 56.081,
+        "interval": "[20.0, 20.5]"
+      },
+      {
+        "informational_density": 21.0643,
+        "spacetime_curvature": 0.081529,
+        "entropy": 55.127,
+        "interval": "[20.5, 21.0]"
+      },
+      {
+        "informational_density": 21.6318,
+        "spacetime_curvature": 0.086957,
+        "entropy": 55.686,
+        "interval": "[21.0, 21.5]"
+      },
+      {
+        "informational_density": 22.0759,
+        "spacetime_curvature": 0.091431,
+        "entropy": 56.474,
+        "interval": "[21.5, 22.0]"
+      },
+      {
+        "informational_density": 22.564,
+        "spacetime_curvature": 0.096506,
+        "entropy": 57.1,
+        "interval": "[22.0, 22.5]"
+      },
+      {
+        "informational_density": 23.0582,
+        "spacetime_curvature": 0.101912,
+        "entropy": 57.688,
+        "interval": "[22.5, 23.0]"
+      },
+      {
+        "informational_density": 23.6563,
+        "spacetime_curvature": 0.108886,
+        "entropy": 59.86,
+        "interval": "[23.0, 23.5]"
+      },
+      {
+        "informational_density": 24.0408,
+        "spacetime_curvature": 0.113469,
+        "entropy": 64.507,
+        "interval": "[23.5, 24.0]"
+      },
+      {
+        "informational_density": 24.5374,
+        "spacetime_curvature": 0.119366,
+        "entropy": 62.69,
+        "interval": "[24.0, 24.5]"
+      },
+      {
+        "informational_density": 25.1455,
+        "spacetime_curvature": 0.126964,
+        "entropy": 65.15,
+        "interval": "[24.5, 25.0]"
+      }
+    ]
+  },
+  "visualization_data": [
+    {
+      "x": 0,
+      "y": 50,
+      "z": 80,
+      "value": 93.87250543428766
+    },
+    {
+      "x": 1,
+      "y": 73.97127693021015,
+      "z": 78.66009467376819,
+      "value": 28.660743963725533
+    },
+    {
+      "x": 2,
+      "y": 92.07354924039483,
+      "z": 74.76006844729035,
+      "value": 6.362649392259967
+    },
+    {
+      "x": 3,
+      "y": 99.87474933020272,
+      "z": 68.64829904811994,
+      "value": 34.6659726777688
+    },
+    {
+      "x": 4,
+      "y": 95.4648713412841,
+      "z": 60.87073263430021,
+      "value": 31.572556873730363
+    },
+    {
+      "x": 5,
+      "y": 79.92360720519783,
+      "z": 52.12211605003109,
+      "value": 2.6742137378989783
+    },
+    {
+      "x": 6,
+      "y": 57.05600040299336,
+      "z": 43.183937159207396,
+      "value": 64.26419087530658
+    },
+    {
+      "x": 7,
+      "y": 32.46083861551901,
+      "z": 34.85461686200427,
+      "value": 84.3241107557266
+    },
+    {
+      "x": 8,
+      "y": 12.15987523460359,
+      "z": 27.878188533762636,
+      "value": 19.677162217851407
+    },
+    {
+      "x": 9,
+      "y": 1.1234941167451495,
+      "z": 22.87783573948817,
+      "value": 9.448423891654645
+    },
+    {
+      "x": 10,
+      "y": 2.053786266843076,
+      "z": 20.300225101986637,
+      "value": 36.39956532301333
+    },
+    {
+      "x": 11,
+      "y": 14.722983721480404,
+      "z": 20.375606902734052,
+      "value": 53.41387110515884
+    },
+    {
+      "x": 12,
+      "y": 36.02922509005371,
+      "z": 23.097247509975585,
+      "value": 86.90742548412346
+    },
+    {
+      "x": 13,
+      "y": 60.75599940439078,
+      "z": 28.222030873995795,
+      "value": 50.94409088700556
+    },
+    {
+      "x": 14,
+      "y": 82.84932993593945,
+      "z": 35.292175359779016,
+      "value": 61.22781007734749
+    },
+    {
+      "x": 15,
+      "y": 96.89999883873695,
+      "z": 43.67612601707661,
+      "value": 15.756177249301862
+    },
+    {
+      "x": 16,
+      "y": 99.46791233116909,
+      "z": 52.624969503183394,
+      "value": 38.731197613646714
+    },
+    {
+      "x": 17,
+      "y": 89.9243556311745,
+      "z": 61.3393322813894,
+      "value": 49.08893403519527
+    },
+    {
+      "x": 18,
+      "y": 70.60592426208783,
+      "z": 69.04078627827901,
+      "value": 34.69807798131016
+    },
+    {
+      "x": 19,
+      "y": 46.242443976909534,
+      "z": 75.0413835451748,
+      "value": 81.89221580905878
+    }
+  ],
+  "reproducibility_notes": {
+    "methodology": "Análise unificada utilizando inteligência artificial para detecção de paradoxos quântico-relativísticos",
+    "data_generation": "Distribuição gerada com base em modelos teóricos de entrelaçamento quântico e curvatura relativística",
+    "timestamp": "2026-01-26T21:35:56.626Z"
+  }
+}
